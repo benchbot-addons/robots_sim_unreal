@@ -1,4 +1,4 @@
-# BenchBot Add-on: Robots for use Isaac Sim (Unreal Engine)
+# BenchBot Add-on: Robots for use with Isaac Sim (Unreal Engine)
 
 This add-on contains robot definition files for using simulated Isaac robots. These robots have only been designed to work with Isaac's Unreal Engine simulation environment.
 
